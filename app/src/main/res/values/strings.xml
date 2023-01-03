@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Smart Qur\'an</string>
+	<string name="app_descriptoin">Islamic</string>
+    <string name="nama_detail">Nama Detail</string>
+    <string name="nama">Nama</string>
+    <string name="tahun_kelahiran">Tahun Kelahiran</string>
+    <string name="tempat">Tempat</string>
+    <string name="usia">Usia</string>
+    <string name="kisah_nabi">Kisah Nabi</string>
+</resources>
